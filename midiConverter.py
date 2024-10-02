@@ -2,8 +2,8 @@ from mido import MidiFile
 from mido import bpm2tempo
 from mido import tick2second
 
-midiFile = MidiFile("TouchTheSky8bit.midi", clip = True)
-name = "TouchTheSky"
+midiFile = MidiFile("jurassicpark.mid", clip = True)
+name = "jURASSICpARK"
 SongFileHeader = '''#include "melodyClass.h" \n#include "melodyLibrary.h" \n#include "pitches.h" \n\n// Generated Song File \n\n'''
 
 notes = []
