@@ -214,8 +214,8 @@ melody_t<208> MelodyLibrary::pirates = { { {
 {REST,125},
 {NOTE_B4,125},
 {REST,125},
-{NOTE_A4,500},
-}},
+{NOTE_A4,500}
+} },
 false 
  };
 
